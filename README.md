@@ -25,7 +25,7 @@ I'm looking to collaborate on:
 ## 📫 How to Reach Me
 Feel free to reach out to me via:
 - **Email**: rafandresenadieudonne@gmail.com
-- **LinkedIn**:https://www.linkedin.com/in/fandresena
+- **LinkedIn**:https://www.linkedin.com/in/dieu donnée FANDRESENA
 
 ## 😄 Pronouns
 - He/Him/His or She/Her/Hers (whichever you prefer)
