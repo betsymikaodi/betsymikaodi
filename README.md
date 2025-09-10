@@ -1,39 +1,72 @@
-# Hi, I'm Betsymikaodi 👋
+# Hi, I'm Betsymikaodi  
 
-## 👀 Interests
-I'm a passionate full-stack developer and DevOps professional. I'm interested in:
-- Building scalable web applications
-- Cloud computing and infrastructure as code
-- Continuous integration and continuous deployment (CI/CD)
-- Automation and scripting
-- Open-source projects
+Full-Stack Developer | DevOps Engineer | Cloud & Virtualization Enthusiast  
 
-## 🌱 Currently Learning
-I'm currently deepening my knowledge and skills in:
-- Kubernetes and container orchestration
-- Advanced cloud services (AWS, Azure, GCP)
-- Microservices architecture
-- Serverless computing
-- Machine learning and data science basics
+---
 
-## 💞️ Looking to Collaborate On
-I'm looking to collaborate on:
-- Open-source projects related to web development and DevOps
-- Innovative startups that leverage cutting-edge technologies
-- Community-driven projects that have a positive impact
+## About Me  
+I’m a passionate Full-Stack Developer and DevOps Professional who loves building and deploying modern, scalable, and cloud-native applications.  
+I focus on bridging the gap between development and operations while leveraging advanced frameworks and virtualization technologies.  
 
-## 📫 How to Reach Me
-Feel free to reach out to me via:
-- **Email**: rafandresenadieudonne@gmail.com
-- **LinkedIn**:https://www.linkedin.com/in/dieu donnée FANDRESENA
+---
 
-## 😄 Pronouns
-- He/Him/His or She/Her/Hers (whichever you prefer)
+## Tech Stack  
 
-## ⚡ Fun Fact
-- I'm a tech enthusiast who loves to explore new gadgets and technologies. In my free time, I enjoy playing chess and hiking.
+### Frontend  
+- React.js, Next.js (SSR & SSG)  
+- TailwindCSS, Material UI  
+- React Native for cross-platform apps  
 
-<!---
-betsymikaodi/betsymikaodi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Backend  
+- Node.js with Express / NestJS  
+- Django & FastAPI (Python)  
+- Spring Boot (Java microservices)  
+
+### DevOps & Cloud  
+- Docker, Podman & Kubernetes  
+- AWS, Azure, GCP  
+- CI/CD: GitHub Actions, GitLab CI, Jenkins  
+- Helm, Terraform, Ansible  
+
+### Databases  
+- PostgreSQL  
+- MongoDB  
+- MySQL  
+- Firebase  
+
+### Virtualization & Infrastructure  
+- VMware, VirtualBox, Proxmox  
+- Infrastructure as Code: Terraform, Pulumi  
+
+---
+
+## Currently Exploring  
+- Microservices & Event-driven Architectures  
+- Serverless computing (AWS Lambda, GCP Cloud Functions)  
+- Machine Learning & Data Science basics  
+- Cloud Security & Zero Trust Architecture  
+
+---
+
+## Looking to Collaborate On  
+- Open-source projects in Web Development & DevOps  
+- Innovative startups leveraging AI, Cloud, or Blockchain  
+- Community-driven projects with global impact  
+
+---
+
+## How to Reach Me  
+- Email: [rafandresenadieudonne@gmail.com](mailto:rafandresenadieudonne@gmail.com)  
+- LinkedIn: [Dieu Donnée FANDRESENA](https://www.linkedin.com/in/dieu-donnée-fandresena)  
+- GitHub: [betsymikaodi](https://github.com/betsymikaodi)  
+
+---
+
+## Fun Facts  
+- Chess lover (strategy = coding mindset)  
+- Hiking keeps me balanced & inspired  
+- Always exploring new tech, frameworks & gadgets  
+
+---
+
+*"Code. Automate. Scale. Repeat."*
