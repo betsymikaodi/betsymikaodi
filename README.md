@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td width="140" align="center">
-      <img src="https://avatars.githubusercontent.com/u/174187501?v=4" width="120" style="border-radius:50%; border: 3px solid #0d47a1;" />
+     <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/9b976aba-d557-49f5-83e1-41eadf112e34" />
     </td>
     <td>
       <h1 style="color:#0d47a1;">Hi, I'm Betsymikaodi</h1>
