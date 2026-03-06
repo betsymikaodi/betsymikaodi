@@ -1,13 +1,13 @@
 <!-- SEO Meta Tags -->
 
-<meta name="title" content="Betsymikaodi - Full-Stack Developer & DevOps Engineer | Cloud, Virtualization, Kubernetes" />
-<meta name="description" content="Portfolio de Betsymikaodi, Full-Stack Developer & DevOps Engineer spécialisé en React, Next.js, Node.js, Django, Kubernetes, Cloud (AWS, Azure, GCP), CI/CD et Virtualisation." />
+<meta name="title" content="Betsymikaodi - IT Support & Full-Stack Developer & DevOps | Cloud, Virtualization, Kubernetes" />
+<meta name="description" content="Portfolio de Betsymikaodi,IT Support & Full-Stack Developer & DevOps  spécialisé en React, Next.js, Node.js, Django, Kubernetes, Cloud (AWS, Azure, GCP), CI/CD et Virtualisation." />
 <meta name="keywords" content="full-stack developer, devops engineer, kubernetes, docker, cloud computing, virtualization, terraform, react, nextjs, django, nestjs, ci/cd, aws, azure, gcp" />
 <meta name="author" content="Betsymikaodi" />
 
 <div style="background-color:#ffffff; color:#0d47a1; padding:20px; border-radius:12px; font-family:Arial, sans-serif;">
 
-# Betsymikaodi - Full-Stack Developer & DevOps Engineer | Cloud, Virtualization, Kubernetes
+# Betsymikaodi - IT Support & Full-Stack Developer & DevOps | Cloud, Virtualization, Kubernetes
 
 ![Profile Views](https://komarev.com/ghpvc/?username=betsymikaodi\&color=0d47a1\&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/betsymikaodi?style=flat-square\&color=0d47a1)
@@ -22,7 +22,7 @@
     </td>
     <td>
       <h1 style="color:#0d47a1;">Hi, I'm Betsymikaodi</h1>
-      <p><b>Full-Stack Developer | DevOps Engineer | Cloud & Virtualization Enthusiast</b></p>
+      <p><b>IT Support | Full-Stack Developer | DevOps | Cloud & Virtualization Enthusiast</b></p>
       <p>Email: <a href="mailto:rafandresenadieudonne@gmail.com" style="color:#0d47a1;">rafandresenadieudonne@gmail.com</a> | LinkedIn: <a href="https://www.linkedin.com/in/dieu-donnée-fandresena" style="color:#0d47a1;">Dieu Donnée FANDRESENA</a> | GitHub: <a href="https://github.com/betsymikaodi" style="color:#0d47a1;">betsymikaodi</a></p>
     </td>
   </tr>
